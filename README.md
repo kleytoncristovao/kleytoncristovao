@@ -1,5 +1,5 @@
 
-### 👋 Olá, eu sou o Kleyton Cristovao
+### 👋 Olá, eu sou o Kleyton Cristovão
 
 - 👀 Estou estudando Html5, CSS3, JavaScript, Git, Github, NodeJS, React, Python;
 
