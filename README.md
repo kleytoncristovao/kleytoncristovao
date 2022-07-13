@@ -63,8 +63,4 @@
 ![Snake animation](https://github.com/kleytoncristovao/kleytoncristovao/blob/output/github-contribution-grid-snake.svg)
 
   
-<br>
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kleytoncristovao&repo=github-readme-stats)](https://github.com/kleytoncristovao/github-readme-stats)
-  
 ###
