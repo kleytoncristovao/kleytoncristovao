@@ -7,6 +7,17 @@
 
 - 👯 Já trabalhei na edição de vídeos, fotos e com montagens de artes usando o Phothosop, Canva e Filmora, trabalho atualmente com o Windows e tenho muita vontade de continuar evoluindo a cada dia aprendendo novas tecnologias e melhorando as que estou aprendendo.
 
+
+###
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kleytoncristovao&theme=hacker&locale=pt-br"/></p>
+
+###
+<br>
+
+
+
+
 ###
 
 <div align="center">
