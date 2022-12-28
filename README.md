@@ -1,7 +1,7 @@
 
 ### 👋 Olá, eu sou o Kleyton Cristovão
 
-- 👀 Estou estudando Html5, CSS3, JavaScript, Git, Github;
+- 👀 Estou estudando HTML5, CSS3, JavaScript, Git, Github;
 
 - 🌱 No momento estou focado no Front-End e em conseguir minha primeira vaga na área;
 
